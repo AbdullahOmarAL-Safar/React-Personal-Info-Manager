@@ -37,6 +37,6 @@ This app displays basic user information and allows you to:
 
 ## 👨‍💻 Author
 
-**Abdullah Omar Akram AL-Safar**  
+**Made by Abdullah Omar Akram Al-Safar (Age: 16)**
 🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-omar-2a552834b)  
 📬 [Email](mailto:abodyalsafar2009@gmail.com)
