@@ -1,28 +1,36 @@
-📦 Project: React Food List App
-A simple and modern React application that displays categorized lists of fruits and vegetables with their calorie values. Designed with clean UI and supports future extension for features like dark mode, sorting, filtering, etc.
+# 🧠 React Personal Info Manager
 
-🖼️ Demo
-A responsive card-style list that showcases items using modern CSS with hover effects and flexible design.
+A beginner-friendly React project that demonstrates fundamental concepts such as:
 
-🚀 Features
-✅ Built with React functional components
+- Components
+- Props & State (`useState`)
+- Event handling (click events)
+- Conditional rendering
+- Styling with CSS
 
-🎨 Clean, modern UI with CSS gradients and shadows
+---
 
-🧠 Component reusability using List component
+## 🚀 Preview
 
-📦 Data structured by categories (Fruits, Vegetables)
+This app displays basic user information and allows you to:
 
-🧪 Includes sorting/filtering logic (commented and ready)
+✅ Set a name  
+✅ Increment age  
+✅ Toggle employment status  
 
-⚙️ Ready for dark/light mode extension
+## 📁 Project Structure
 
-📁 Project Structure
-bash
-Copy
-Edit
-├── App.jsx # Main app logic with data arrays
-├── List.jsx # Reusable component to render list items
-├── main.jsx # App entry point
-├── index.css # Modern CSS styles
-└── README.md # Project description
+📦 my-react-app
+├── App.jsx
+├── myComponont.jsx
+├── index.css
+├── README.md
+
+## 🧩 Features
+
+- Functional React components
+- Controlled state using `useState`
+- Clean, reusable CSS for styling
+- Responsive UI with modern button and layout styling
+
+---
