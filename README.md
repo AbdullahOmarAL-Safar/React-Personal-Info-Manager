@@ -34,3 +34,9 @@ This app displays basic user information and allows you to:
 - Responsive UI with modern button and layout styling
 
 ---
+
+## 👨‍💻 Author
+
+**Abdullah Omar Akram AL-Safar**  
+🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-omar-2a552834b)  
+📬 [Email](mailto:abodyalsafar2009@gmail.com)
